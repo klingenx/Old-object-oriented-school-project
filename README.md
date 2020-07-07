@@ -1,2 +1,2 @@
 # Old-object-oriented-school-project
-Old object oriented school project in c++
+Old object oriented school assignment
